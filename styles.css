@@ -7,32 +7,40 @@
     #344E41 - Brunswick Green
     #C8CF3A - Pear
 */
+body{
+    color: #372f36;
+    height: 100vh;
+}
+
+.aColor{
+    color: #372f36;
+}
 
 .background{
     background: linear-gradient(#3A5A40, #C3C6A9);
     background-size: cover;
     background-repeat: no-repeat;
 }
-.footer{
+.footerColor{
     background: #C3C6A9;
 }
-body{
-    color: #372f36;
-    height: 100vh;
-}
 
-.CardColor{
+.cardColor{
     background-color: #344E41;
     color: #C8CF3A;
     border: 2px #372f36 solid;
 }
 
-.BtnColor{
+.cardImg{
+    height: 230px;
+}
+
+.btnColor{
     background-color:#372f36;
     color: #C3C6A9; 
 }
 
-.nav{
+.navColor{
     background-color: #3A5A40;
     border-bottom: 4px #372f36 solid;
 }
