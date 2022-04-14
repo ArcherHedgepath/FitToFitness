@@ -8,11 +8,20 @@
     #C8CF3A - Pear
 */
 
-*{
-    margin: 0px;
+body{
+    background: linear-gradient(#C3C6A9, #3A5A40);
 }
-<<<<<<< HEAD
-=======
+
+.CardColor{
+    background-color: #344E41;
+    color: #C8CF3A;
+    border: 2px #372f36 solid;
+}
+
+.BtnColor{
+    background-color:#372f36;
+    color: #C3C6A9; 
+}
 
 .fa {
 padding: 13px;
@@ -47,4 +56,3 @@ color: white;
     flex-wrap: wrap;
     justify-content: space-between;
 }
->>>>>>> 26c41be6e17e758de947d5a2ac405b6dfd97e307
