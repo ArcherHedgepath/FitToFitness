@@ -11,3 +11,40 @@
 *{
     margin: 0px;
 }
+<<<<<<< HEAD
+=======
+
+.fa {
+padding: 13px;
+font-size: 13px;
+text-align: center;
+text-decoration: none;
+margin: 5px;
+}
+
+.fa:hover {
+opacity: 0.7;
+}
+
+.fa-facebook {
+background: #3B5998;
+color: white;
+}
+
+.fa-twitter {
+background: #55ACEE;
+color: white;
+}
+
+.fa-instagram {
+background: #125688;
+color: white;
+}
+
+#TopNav{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+>>>>>>> 26c41be6e17e758de947d5a2ac405b6dfd97e307
